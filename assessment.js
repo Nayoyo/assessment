@@ -63,7 +63,7 @@ const answers = [
     '{userName}のいいところは声です。{userName}の特徴的な声は人を惹きつけ、心を癒します。',
     '{userName}のいいところは眼差しです。{userName}に見つめられるとドキドキします。',
     '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
-    '{uwerName}のいいところはユニークさです。{userName}はみんなを笑顔にします。',
+    '{userName}のいいところはユニークさです。{userName}はみんなを笑顔にします。',
     '{userName}のいいところは見た目です。{userName}可愛さには誰もが振り向きます。',
 ];
 /**
